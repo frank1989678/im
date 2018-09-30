@@ -1,0 +1,15 @@
+{
+    "pages": [
+        "pages/login/login",
+        "pages/main/main",
+        "pages/chat/chat",
+        "pages/chatroom/chatroom",
+        "pages/register/register",
+        "pages/settings/settings"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#fff"
+    }
+}
